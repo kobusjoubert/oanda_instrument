@@ -1,7 +1,5 @@
 # OandaInstrument
 
-## Purpose
-
 An API service with the sole purpose of returning candle data.
 
 This service should be able to handle a great deal of concurrent requests, as much as the Rails Puma server can handle.
