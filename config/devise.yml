@@ -1,0 +1,10 @@
+development:
+  mailer_sender: 'info@oandainstrument-development.herokuapp.com'
+backtest:
+  mailer_sender: 'info@oandainstrument-backtest.herokuapp.com'
+test:
+  mailer_sender: 'info@oandainstrument-test.herokuapp.com'
+production:
+  mailer_sender: 'info@oandainstrument.herokuapp.com'
+staging:
+  mailer_sender: 'info@oandainstrument-staging.herokuapp.com'
